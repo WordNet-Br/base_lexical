@@ -1,0 +1,1 @@
+Esse repositório contém os arquivos da base lexical do Projeto WordNet.Br.
